@@ -1,1 +1,1 @@
-This is my python pattent program directory.
+This is my python pattern program directory.
